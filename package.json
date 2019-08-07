@@ -1,0 +1,19 @@
+{
+  "name": "@01ht/ht-elements-payout-settings",
+  "version": "1.0.0",
+  "main": "ht-elements-payout-settings.js",
+  "repository": "01ht/ht-elements-payout-settings",
+  "author": "01HT Ltd",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lit-element": "^2.0.1",
+    "@polymer/iron-icon": "^3.0.1",
+    "@polymer/paper-input": "^3.0.1",
+    "@polymer/iron-iconset-svg": "^3.0.1",
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-ripple": "^3.0.1",
+    "@01ht/ht-spinner": "01ht/ht-spinner",
+    "@01ht/ht-page-header": "01ht/ht-page-header",
+    "@01ht/ht-theme": "01ht/ht-theme"
+  }
+}
